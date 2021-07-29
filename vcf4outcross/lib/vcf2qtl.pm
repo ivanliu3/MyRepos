@@ -1,5 +1,6 @@
 package vcf2qtl;
 
+# version 2.0
 use strict;
 use warnings;
 use PerlIO::gzip;
